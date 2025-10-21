@@ -1,2 +1,2 @@
 # odin-recipes
-Simple recipe page for The Odin Project assignment
+Welcome to my recipes webpage I created for [The Odin Project](www.theodinproject.com). This project is for the HTML Foundations portion of the curriculum, and is intended to demonstrate my understanding of basic HTML concepts including simple boilerplate elements, text, images, and lists. You can find a live version of this project [HERE](https://zacmartinez.github.io/odin-recipes/). 
