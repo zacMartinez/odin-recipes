@@ -1,4 +1,56 @@
 * {
-    background-color: pink;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+html {
+    background-color: #112222;
+    color: #eeeeff
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 24px 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+}
+
+figure {
+    text-align: center;
+}
+
+img {
+    max-width: 480px;
+}
+
+a {
+    color: orangered;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    padding: 0 8px;
+    background-color: maroon;
+}
+
+p,
+li,
+a,
+figcaption {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul.navigation-links {
+    padding: 0;
+}
+
+.navigation-links li {
+    padding: 8px 0;
+    list-style-type: none;
 }
